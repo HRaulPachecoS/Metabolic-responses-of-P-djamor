@@ -1,0 +1,48 @@
+{
+  "creators": [
+    {
+      "name": "Pacheco-Sánchez, Humberto Raúl",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    },
+    {
+      "name": "Aguado-Rivera, Noemí Alitzel",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    },
+    {
+      "name": "Hernández-Navarrete, Carlos Eligio",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    },
+    {
+      "name": "Rico-Chávez, Amanda Kim",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    },
+    {
+      "name": "Aguirre-Becerra, Humberto",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    },
+    {
+      "name": "García-Trejo, Juan Fernando",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    },
+    {
+      "name": "Feregrino-Pérez, Ana Angélica",
+      "affiliation": "Universidad Autónoma de Querétaro"
+    }
+  ],
+  "title": "Metabolic responses of Pleurotus djamor to lignocellulosic substrate gradients",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "language": "eng",
+  "keywords": [
+    "Pleurotus djamor",
+    "metabolomics",
+    "GC-MS",
+    "lignocellulosic substrates",
+    "coconut fiber",
+    "coffee husk",
+    "barley straw",
+    "mushroom cultivation"
+  ]
+}
